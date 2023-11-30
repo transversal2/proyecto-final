@@ -1,0 +1,36 @@
+<html>
+<head>
+<title>PROYECTO TRANSVERSAL</title>
+</head>
+<h2><center><u><img src="C:\Users\rolan\Pictures\cecytes.png"></u><center></h2>
+<p style="color:bkack; font-size:100px"><center>CECYTE BENJAMIN HILL<center></p>
+<body bgcolor=»#3FFF33»><h1><center>PROYECTO TRANSVERSAL</center></h1>
+<font size=»3" face=»Vladimir Script, Arial, MS Sans Serif»>
+<h2><center>Equipo: Rolando Ayon Yaretzi Delgado, Karime Guerrero, Edgar Figueroa, Lluvia Espinoza<center></h2> 
+<h2>MATERIA: Sub 1: Construye bases de datos para aplicaciones web</h2>
+<h2>En esta pagina web les mostraremos un como poco a poco fuimos avanzando en nuestro proyecto a lo largo de cada parcial   en la rehabilitacion de las canchas de nuestro plantel
+<h2><left><u><img src="C:\Users\rolan\Pictures\Z.jpg"></u><left><right><u><img src="C:\Users\rolan\Pictures\mn.jpg"></u><right></h2>
+<h2><right><u><img src="C:\Users\rolan\Pictures\O.jpg"></u><right><right><u><img src="C:\Users\rolan\Pictures\E.jpg"></u><right</h2>
+<h2><left><u><img src="C:\Users\rolan\Pictures\AA.jpg"></u><left></h2>
+<form action="/my-handling-form-page" method="post">
+<ul>
+ <li>
+  <label for="name">Nombre:</label>
+  <input type="text" id="name" name="user_name">
+</li>
+<li>
+ <label for="mail">Correo Electronico:</label>
+ <input type="email" id="mail" name="user_mail">
+  </li>
+  <li>
+    <label for="msg">Recomendaciones para la pagina</label>
+    <textarea id="msg" name="user_message"></textarea>
+  </li>
+
+    <li class="button">
+    <button type="submit">Enviar datos</button>
+</li>
+</ul>
+</form>
+</body>
+</html>
